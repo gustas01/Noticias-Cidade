@@ -1,4 +1,4 @@
-Site de notícias fictício
+Site de notícias fictício.
 Tecnologias usadas: HTML e CSS <hr>
 
 
