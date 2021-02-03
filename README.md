@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-# Projeto_Not-cias-Cidade
- Site de notícios fictícios
-=======
-# Noticias-Cidade
- Site de notícias fictício
->>>>>>> 75cee4022fa305737b56bb73a4b28b465c130589
+Site de notícias fictício
+Tecnologias usadas: HTML e CSS <hr>
+
+
+<img src="imagens/print1.JPG">
+<img src="imagens/print2.JPG">
+
+Para ir à aplicação, acesse
+https://gustas01.github.io/Projeto_Noticias-Cidade/
